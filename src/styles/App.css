@@ -1,6 +1,8 @@
 h1 {
     color: #27aedb;
     text-align: center;
+    background-color: antiquewhite;
+    height: 60px;
     }
     
 
@@ -9,4 +11,8 @@ button{
     text-align: center;
     justify-content: center;
     align-items: center;
+}
+p{
+    text-align: center;
+    background-color: beige;
 }
